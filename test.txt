@@ -1,9 +1,13 @@
-12314234253三打两建；
-asgdja
-12314234253三打两建；
-asgdja
-12314234253三打两建；
-asgdja
-12314234253三打两建；
-asgdja
+���ǵķ�����git push -u origin mastergit push -u origin mastergit push -u origin master
 
+git push -u origin master
+git push -u origin master
+
+git push -u origin master
+
+git push -u origin master
+git push -u origin master
+
+git push -u origin master
+
+git push -u origin master
